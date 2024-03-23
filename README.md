@@ -1,4 +1,5 @@
-
+# Colab create new notebook
+https://colab.research.google.com/drive/1020pXfP7FxyRQWZPgPEdUQy8x0RaLSd8?authuser=0
 # QnA using LlamaIndex, PostgresSQL, and LLAMA-2
 1. 아래 버튼을 shift+클릭으로 새창으로 열기  
 <a href="https://colab.research.google.com/github/Jeremy-su1/LlamaIndex-train/blob/main/QnA_using_LlamaIndex.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
