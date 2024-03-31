@@ -7,4 +7,5 @@ https://colab.google
 ![Colab runtime 환경 변경](https://github.com/Jeremy-su1/LlamaIndex-train/assets/44183045/0eccf953-9993-41ca-832d-6179bd2350d3#style=max-width:50px;vertical-align:bottom; "Colab runtime 환경 변경")  
 ![Change runtime type](https://github.com/Jeremy-su1/LlamaIndex-train/assets/44183045/787a1dd5-bdbd-4bee-8c67-91a549ab80d2)
 
+## 실습 전체 흐름도
 <div align=center><img src=QnAusingLlamaIndex.drawio.png></div>
